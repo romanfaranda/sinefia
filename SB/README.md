@@ -1,6 +1,6 @@
-# **SINEFIA**
+# **SINEFIA_SB**
 
-SINEFIA is a Python-based tool for automating the modeling of observational data using CLOUDY simulations and SED templates. It facilitates the generation of parameter grids, execution of CLOUDY models, and statistical comparison of results with observational data. The tool is specifically designed to analyze galaxy spectra and emission line intensities, identifying the best-fit parameters for given observational datasets.
+SINEFIA_SB is a Python-based tool for automating the modeling of observational data using CLOUDY simulations and SED templates. It facilitates the generation of parameter grids, execution of CLOUDY models and statistical comparison of results with observational data. The tool is specifically designed to analyze galaxy spectra and emission line intensities, identifying the best-fit parameters for given observational datasets.
 
 ---
 
